@@ -1,5 +1,7 @@
 # snek.bat
 
+![Stunning graphics!](/stunning_graphics.png)
+
 ## How to play
 1. Don't.
 2. If you happen to ignore that advice... maximize the window
